@@ -1,2 +1,2 @@
 # Manu7
-This is my zfirst Github repository
+This is my first Github repository
